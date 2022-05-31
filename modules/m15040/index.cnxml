@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Best Practices in Online Teaching - During Teaching - Sustain Students' Motivation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>26e016be-eeff-424c-812c-cb2509e9fbb3</md:uuid>
+</metadata>
+  <content>
+    <section id="id-250733447939">
+      <title>What to Do?</title>
+      <figure id="element-242"><media id="idm137024" alt=""><image src="../../media/strategy.jpg" mime-type="image/jpeg"/></media>
+      <caption>Photo Coaches talking strategy, Photo by and Used with Permission of Julie Elliott, Photo #195275, http://www.sxc.hu/photo/195275</caption></figure><para id="id4818690">Effective online instructors use appropriate teaching strategies to support, guide, and motivate students to learn actively in the online environment.</para>
+    </section>
+    <section id="id-868735359631">
+      <title>How to Do It?</title>
+      <list list-type="bulleted" id="id4166642"><item>Provide opportunities for student collaboration and facilitate their collaborative learning processes.</item>
+        <item>Provide opportunities for students to collaborate through online collaboration tools such as <link url="http://www.adobe.com/products/breeze/">Breeze</link>.</item>
+        <item>Choose the right tone of conversation in online communication to make students feel comfortable with the learning environment, to establish trust in communication, and to reduce feelings of isolation and enhance a sense of community</item>
+        <item>Provide meaningful feedback on graded assignments with recognition of good work as well as specific suggestions for improvement (<link target-id="element-916">See Example</link> and <link document="m15038">Provide Feedback and Support Module</link>) </item>
+<item>Provide a weekly “wrap up” before the next lesson begins</item>
+        <item>Take an active role in helping your students think and learn actively through careful task structuring, questioning, and scaffolding.</item>
+        <item>In online discussions, consider:<list list-type="bulleted" id="id4216265"><item>Designing thought-provoking questions to elicit student discussions on the topics of your focus: see <link url="http://tlt.its.psu.edu/suggestions/online_questions/">Crafting Questions for Online Discussions</link> from Instructional Technology Services at Penn State</item><item>Providing a weekly summary of discussion topics to demonstrate your participation</item><item>Redirecting off-topic discussion through gentle reminders or a recast of the question</item><item>Assessing messages by both quantity and quality (For more information about assessing online messages, please see <link document="m15035">Assessing Messages in Online Discussion module</link>)</item></list></item>
+      </list><example id="element-916"><title>Feedback to Students</title>
+	<para id="element-613">
+ANGEL email sent to class, ESL 015, Fall 06</para>
+
+<para id="element-613a">Hi class,</para>
+
+<para id="element-613b">Here's my feedback in your work on the summary of Lean's article. </para>
+
+<para id="element-613c">What I was looking at: </para><list id="element-973" list-type="enumerated"><item>if you have explicitly and clearly summarized the points as to why numerical grading system is not appropriate. Don't just say it's bad because it's unfair: Lean explained why it is unfair and how it can be detrimental to the students. </item>
+	<item>if you sum up the points as to why descriptive reports on the students might be a better way to replace the numerical grading. You need to include claims and assumptions about why this system would work better. His claim might be "descriptive way works better", but his assumption can be the reasons why that would work better. Let me see, as your reader, why Lean was supporting the descriptive way. </item>
+	<item>how you citied his examples in your own words to support points 1) and 2).  </item></list><para id="element-388">Please review your summary and see if you have stated all of these three points. Again, I would welcome your further revision on your summary. </para><para id="element-19">Thank you, K. Park</para>
+
+</example>
+    </section>
+    <section id="id-79073154906">
+      <title>Why Do It?</title>
+      <para id="id4172241">Instructors use external strategies to support and promote learners’ internal motivation to learn effectively (Conrad, Donaldson, 2004, p.8).</para>
+      <para id="id4912934">The technological tools in a course management system do not necessarily ensure students’ learning; therefore, Lao &amp; Gonzales (2005) suggest that faculty of online courses know how to motivate their students in an online environment.</para>
+      <para id="id4193157">Beaudin’s (1999) study about online asynchronous discussions finds the following strategies can help keep asynchronous discussions on topic: carefully-designed questions, guidelines for helping learners prepare responses, rewording questions when necessary, and discussion summaries.</para></section>
+      <section id="id4912933">
+        <title>References:</title>
+
+      <para id="id4767699">Beaudin, B.P. (1999). Keeping online asynchronous discussions on topic. <emphasis>Journal of Asynchronous Learning Networks, 3(2),</emphasis> 41-53</para>
+      <para id="id4338429">Conrad, R.M. &amp; Donaldson, J.A. (2004). <emphasis>Engaging the online learning: Activities and resources for creative instruction. </emphasis>San Francisco: Jossey-Bass.</para>
+      <para id="id4329744">Lao, T. &amp; Gonzales, C. (2005). Understanding online learning through a qualitative description of professors and students’ experiences. <emphasis>Journal of Technology and Teacher Education, 13(3), </emphasis>459-474</para>
+    </section>
+  </content>
+</document>

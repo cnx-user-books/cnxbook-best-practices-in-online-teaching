@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Best Practices in Online Teaching - During Teaching - Provide Feedback and Support</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>10d9cc32-c7ca-4834-b142-7b4a0512eb97</md:uuid>
+</metadata>
+  <content>
+    <section id="id-187502783794">
+      <title>What to Do?</title>
+      <figure id="id4561859"><media id="idp7152512" alt=""><image src="../../media/guitar_player.jpg" mime-type="image/jpeg"/></media>
+<caption>Photo, Guitar lesson at the University of Brasilia., Photo by Henrique Pinheiro, Photo #393670, http://www.sxc.hu/photo/393670</caption>
+      </figure>
+      <para id="id13550164">Effective online instructors provide timely, quality, and appropriate feedback to support and facilitate students’ learning process.</para>
+    </section>
+    <section id="id-576188968939">
+      <title>How to Do It?</title>
+      <list list-type="bulleted" id="id9784548"><item>Encourage students to articulate their confusion or difficulty with course content, projects, requirements, or instructions for activities</item>
+        <item>Provide meaningful feedback on graded assignments with recognition of good work as well as specific suggestions for improvement (<link target-id="element-65">See Example</link>)</item>
+        <item>Respond to students’ concerns or technical difficulties quickly and provide contact information of tech support</item>
+        <item>Peer assessment can provide additional feedback opportunity while reducing faculty workload (Ko &amp; Rossen, 2004, p.122).</item>
+        <item>In online discussions, your students will feel motivated to participate and learn when you:<list list-type="bulleted" id="id3065716"><item>Encourage openness in online discussions or collaborative assignment and allow different opinions to exist</item><item>Diagnose misconception without delay to avoid further misunderstanding or confusion, but explain with background information</item><item>Provide timely feedback to comment, confirm, evaluate, or to question</item><item>Provide additional important resources for further study</item><item>Use gentle reminders to carry the discussion further or redirect discussions</item><item>Encourage your students to use examples, real cases, or literature to support their views</item><item>See Anderson et. al (2001) Coding Scheme for Facilitating Discussions for more suggestions</item></list></item>
+      </list><example id="element-65"><title>Feedback to Students</title>	
+<para id="element-604"><emphasis>Email sent to class, ESL 015, Fall 06</emphasis>
+	</para><para id="element-943">Hi class,</para><para id="element-388">Here's my feedback in your work on the summary of Lean's article.  </para><para id="element-148">What I was looking at:  </para><para id="element-366">a) if you have explicitly and clearly summarized the points as to why numerical grading system is not appropriate. Don't just say it's bad because it's unfair: Lean explained why it is unfair and how it can be detrimental to the students. 
+</para><para id="element-952">b) if you sum up the points as to why descriptive reports on the students might be a better way to replace the numerical grading. You need to include claims and assumptions about why this system would work better. His claim might be "descriptive way works better", but his assumption can be the reasons why that would work better. Let me see, as your reader, why Lean was supporting the descriptive way. </para><para id="element-370">c) how you citied his examples in your own words to support points a) and b).  </para><para id="element-457">Please review your summary and see if you have stated all of these three points. Again, I would welcome your further revision on your summary. </para><para id="element-740">Thank you. K. Park</para>
+</example>
+    </section>
+    <section id="id-992088155119">
+      <title>Voice of Experience</title>
+      <para id="id3063858">To hear insights from experienced online instructors about preparing for online teaching, access any or all of the following interviews. Please make sure your audio is enabled.</para><para id="element-982"><title>Alfred Turgeon</title>
+<figure id="element-861a1"><media id="idp841296" alt=""><image src="../../media/altugeon.jpg" mime-type="image/jpeg"/></media></figure>
+<figure id="element-861a"><title>Alfred Turgeon - Evolution of Teaching Style(Interviewed by Larry Ragan) (mp3)</title>
+<media id="idp7309792" alt=""><audio src="TurgeonTeachingStyle.mp3" mime-type="audio/mpeg"/></media>
+</figure>
+<figure id="element-119ab"><title>Alfred Turgeon - Adapting Content to Course Level (Interviewed by Larry Ragan) (mp3)</title>
+<media id="idp10787792" alt=""><audio src="TurgeonCourseLevel.mp3" mime-type="audio/mpeg"/></media></figure>
+
+</para>
+      
+    </section>
+    <section id="id-249660639049">
+      <title>Why Do It?</title>
+      <para id="id3898640">Anderson, T. et al. (2001) suggests that a common problem in computer conferencing is the difficulty of focusing and refining discussions, which are typically limited to information sharing instead of knowledge construction, application, and integration. Such problems are attributed to the absence of a teaching presence.</para>
+      <para id="id3988186">Thomas (2002) suggests that three factors account for the lack of “normal discussion” necessary for learning to take place: “isolated mode of participation, the structural organization of messages, and the conflict between the written form and oral function of technology-mediated interpersonal communication” (p.362); good facilitation by a tutor or moderator is important to creating coherent online discussions.</para>
+      <para id="id4110471">Direct instruction still plays an important role in online learning, but it may take different forms than in traditional face-to-face settings. See Anderson, et al. (2001) for examples (see Anderson, et al. (2001, table page 10):</para>
+      
+</section>
+<section id="references">
+        <title>References:</title>
+      <para id="id3674647">Anderson, T., Rourke, L., Garrison, D.R., Archer, W. (2001). Assessing teaching presence in a computer conferencing context. Journal of <emphasis>Asychronous Learning Networks, 5(2),</emphasis> 1-17</para>
+      <para id="id3599771">Ko, S. &amp; Rossen, S. (2004). <emphasis>Teaching Online: A practical guide</emphasis>. 2nd Ed. New York: Houghton Mifflin Company.</para>
+      <para id="id12282797">Thomas, M.J.W. (2002). Learning within incoherent structures: the space of online discussion forums<emphasis>. Journal of Computer Assisted Learning, 18</emphasis>, 351-366</para>
+    </section>
+  </content>
+</document>

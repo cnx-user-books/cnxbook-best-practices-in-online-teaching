@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Best Practices in Online Teaching - During Teaching - Assess Messages in Online Discussions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1330b0af-bc8f-4092-ae54-2903b606cd33</md:uuid>
+</metadata>
+  <content>
+    <section id="id-186917328563">
+      <title>What to Do?</title>
+      <para id="id7023796">Assessing students’ messages in online discussions encourages their participation and hopefully helps improve the quality of discussion as well. Set specific assessment criteria and make the criteria available to students in the beginning of the course.</para>
+    </section>
+    <section id="id-608468425831">
+      <title>How to Do It?</title>
+      <list list-type="bulleted" id="id11479989"><item>Include the assessment criteria for online discussions within one or more locations (<link target-id="element-710">See Example</link>):<list list-type="bulleted" id="id8351958"><item>The course syllabus</item><item>A course announcement prior to the first online discussion task</item><item>The instructions for the discussion task</item></list></item>
+        <item>Make sure the assessment criteria measure both the quantity and quality of the online messages.</item>
+        <item>When designing a rubric for assessing online discussions, consider assigning some points to encourage posting.</item>
+        <item>Make use of sample rubrics from literature:<list list-type="bulleted" id="id13421175"><item><emphasis>Edelstein &amp; Edwards' (2002) Assessing Effectiveness of Student Participation in Online Discussions</emphasis>. This rubric considers five categories that are important for building a learning community: promptness and initiative, delivery of post, relevance of post, expression within the post, and contribution to the learning community.</item><item><emphasis>Garrison's, et al. (2001) Cognitive Processing Categories</emphasis>. May be useful when assessing the quality of postings: (1) triggering (questioning); (2) exploration (information seeking and sharing), (3) integration (providing solution), and (4) solution (testing solutions)</item><item><emphasis>Kleinman’s (2005) Grading Rubric for Online Discussion Participation</emphasis>. Provides detailed grading criteria.</item><item><emphasis>Dringus &amp; Ellis' (2005) Assessment of Student Progress in Forums</emphasis></item></list></item>
+        <item>For more information about facilitating online discussions, please see <link url="http://www.wordsworth2.net/activelearning/ecacdiscustips.htm">Ten Tips for Generating Engaged Online Discussions</link> by Donna Reiss.</item>
+      </list>
+<example id="element-710">
+		<title>Example - Referring to Assessment Criterion</title>
+
+<para id="element-989a"><emphasis>Message Board Discussions</emphasis></para>
+<para id="element-98b9">How it works: * Midnight Sunday through midnight Friday</para>
+<para id="element-989c">I will post a question by midnight Sunday. Your tasks are to:</para>
+<list id="element-948" list-type="enumerated"><item>Post a thoughtful, unique answer to the instructor's question in 300 words or less (your answer should not be the same as someone who has already posted). You should build an informed response between Sunday night (when the question is posted) and Friday night (when your response is due).</item>
+	<item>You will be graded on the quality of your responses--not quantity. Be thoughtful rather than verbose. Due midnight Friday. Each student will be graded on an individual basis (max score is 10)</item>
+</list><para id="element-989d">The grading criteria used includes:</para><list id="element-823" list-type="bulleted"><item>Your ability to synthesize different aspects of the posted question, particularly with reference to the articles in the course packet. The more detailed your explanation of specific points from the articles, the better the quality of your response.</item>
+<item>Your skill in posting a response with specific and unique examples that showcase your understanding of the salient points of the posted question, as well as your understanding of different aspects of the course materials (such as course packet articles, lecture notes, and textbook readings).</item>
+<item>Your ability to build a final, thoughtful response based on prior postings. This requires you to respond more than once to the instructor's post. Your final response should be structured around your previous postings, and you will attempt to integrate your different thoughts and opinions.</item>
+</list>
+
+</example>
+    </section>
+    <section id="id-999326272089">
+      <title>Why Do It?</title>
+      <para id="id12668734">When instructors grade discussions in an online course, students tend to participate in the discussions actively and thus have higher levels of sense of community (Rovai, 2003). However, too much emphasis on solely quantitative analysis of postings/messages can only result in coerced participation, poor quality of learning and student contributions to the online discussion (Garrison &amp; Anderson, 2003).</para>
+      <para id="id8620069">Thomas (2002) suggests that three factors account for the lack of “normal discussion” that is necessary for learning to take place: “isolated mode of participation, the structural organization of messages, and the conflict between the written form and oral function of technology-mediated interpersonal communication” (p.362); good facilitation by a tutor or moderator is important to creating coherent online discussions.</para>
+</section>
+<section id="references">
+        <title>References:</title>
+
+      <para id="id11722316">Dringgus, L.P. &amp; Ellis, T. (2005). Using data mining as a strategy assessing asynchronous discussion forums. <emphasis>Computers &amp; Education, 45</emphasis>, 141-160</para>
+      <para id="id13500142">Edelstein, S., and Edwards, J. (2002). If you build it, they will come: Building learning communities through threaded discussions. <emphasis>The Online Journal of Distance Learning Administration, 5(1)</emphasis>. Available Online: <link url="http://www.westga.edu/~distance/ojdla/spring51/edelstein51.html">http://www.westga.edu/~distance/ojdla/spring51/edelstein51.html</link></para>
+      <para id="id12938046">Garrison, D. R., Anderson, T., and Archer, W. (2001). Critical thinking, cognitive presence, and computer conferencing in distance education. <emphasis>The American Journal of Distance Education, 15(1)</emphasis>, pp 7-23</para>
+      <para id="id6307509">Garrison, D.R. &amp; Anderson, T. (2003). <emphasis>E-learning in the 21st century: A framework for research and practice</emphasis>. New York: RoutledgeFalmer.</para>
+      <para id="id12916811">Kleinman, S. (2005). Strategies for encouraging active learning, interaction, and academic integrity in online courses. <emphasis>Communication Teacher, 19(1)</emphasis>, 13-18</para>
+      <para id="id10355096">Rovai, A. P. (2003). Strategies for grading online discussions: Effects on discussions and classroom community in Internet-based university courses. <emphasis>Journal of Computing in Higher Education, 15(1)</emphasis>, 89-107.</para>
+      <para id="id13396857">Thomas, M.J.W. (2002). Learning within incoherent structures: the space of online discussion forums. <emphasis>Journal of Computer Assisted Learning, 18</emphasis>, 351-366</para>
+    </section>
+  </content>
+</document>

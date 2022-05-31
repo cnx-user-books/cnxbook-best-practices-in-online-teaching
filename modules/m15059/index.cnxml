@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Best Practices in Online Teaching - During Teaching - Monitor Student Progress and Encourage Lagging Students</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5a084a0d-3563-48cd-9705-16785fb9c1a4</md:uuid>
+</metadata>
+  <content>
+    <section id="id-517540167542">
+      <title>What to Do?</title>
+      <figure id="id8812483"><media id="idp13977520" alt=""><image src="../../media/graphics1-3594.jpg" mime-type="image/jpeg" height="234" width="313"/></media>
+      <caption>Lost, Photo by and used with Permission from Penny Mathews, Photo #576588, http://www.sxc.hu/photo/576588 </caption></figure>
+      <para id="id9912436">While recognizing different student learning styles, instructors monitor student progress, identify lagging students, and help them minimize their procrastination through appropriate monitoring and encouragement.</para>
+    </section>
+    <section id="id-0322861388823">
+      <title>How to Do It?</title>
+      <list list-type="bulleted" id="id7911808"><item>Be aware that students who fall behind are in jeopardy of not completing the course within the same semester of enrollment. This may endanger student financial aid for the following semester, or student reimbursement of tuition if the student is receiving funds from a third party (such as an employer).</item>
+        <item>Many Course Management Systems have tools to track student progress in course activities (e.g. the WhoDunIt Agent in ANGEL allows an instructor to track students’ progress in course activities).</item>
+        <item>Contact students who haven’t logged in for over a week to inquire whether they’re experiencing technical difficulties or problems with course content, team communications, etc.</item>
+        <item>If students cannot participate due to technical problems, connect them immediately to get technical help.</item>
+        <item>Contact students who have not completed assignments by email or phone.</item>
+        <item>Send a weekly email summarizing course activities as a general reminder to the whole class near the end of the week.</item>
+        <item>Introduce a new week with an overview of upcoming events and deadlines. (<link target-id="element-18">See Example</link>)</item>
+        <item>Include flexibility in grading if possible (e.g. Allow students to drop lowest grade; Give choices for when students can complete assignments (e.g. Pick 2 out of 5, etc.)  </item>
+        <item>Differentiate lurking learners from lagging students.</item>
+        <item>For more information related to this section, please see <link document="m15038">2.6 Feedback and Support</link> module.</item>
+      </list><example id="element-18"><title>Introducing a New Week</title>	
+<para id="element-966">
+<emphasis>Email sent to class, PSY 451, Spring 06</emphasis>
+	</para><para id="element-846">Hi, 451'ers.  I hope that you are all having a good week! </para><para id="element-362">I just wanted to remind you that this week's case (based on the Hartwick Case on MLK's Letter from Birmingham Jail) is due on Sunday.  It is an individual assignment, and so far only one individual has completed it.</para><para id="element-113">Looking ahead to next week, your group will need to complete another movie case by 11:00 p.m. on Sunday, April 9.  I suggest that you start determining which movie your group will watch/discuss so that everyone can view it and respond in time.  Your movie choices include: Remember the Titans, Apollo 13, and Lord of the Flies.</para><para id="element-166">Plus, keep progressing on your final group project.  Be sure to get in touch with your interviewees and conduct your interviews as soon as possible!</para><para id="element-619">Dr. L</para>
+</example>
+    </section>
+    <section id="id-231558274849">
+      <title>Why Do It?</title>
+      <para id="id6347523">
+        <quote display="block" id="idp420496">Although some students may do better in an online environment than in a face-to-face classroom, we should not expect every student to succeed in an online environment; therefore, instructors should recognize and work with those who are not successful in the online class (Palloff and Pratt, 2001).</quote>
+      </para>
+      <para id="id9694996">
+        <quote display="block" id="idm502192">Students seem to have more opportunities to procrastinate in online classes than in traditional ones; procrastination may affect students’ satisfaction with online courses but not for students in traditional lecture classes (Elvers, Polzella, &amp; Graetz, 2003).</quote>
+      </para>
+    </section>
+    <section id="id-200613735157">
+      <title>References:</title>
+      <para id="id6986220">Berge, Z.L. (1995). Facilitating Computer Conferencing: Recommendations from the Field. <emphasis>Educational Technology, 35(1),</emphasis> 22-30</para>
+      <para id="id9628475">Vonderwell, S. &amp; Turner, S. (2005). Active learning and preservice teachers’ experiences in an online course: A case study. <emphasis>Journal of Technology and Teacher Education, 13(1)</emphasis>, 65-84</para>
+      <para id="id8812511">Wilson, G., Stacey, K (2004). Online interaction impacts on learning: Teaching the teachers to teach online. <emphasis>Australasian Journal of Educational Technology, 20(1)</emphasis>, 33-48 </para>
+    </section>
+  </content>
+</document>

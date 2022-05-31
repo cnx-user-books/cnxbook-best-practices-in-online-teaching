@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Best Practices in Online Teaching - Pulling It All Together - Teaching Blended Learning Courses</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9224a09a-dbd4-463a-ba2c-23f6934ca8d7</md:uuid>
+</metadata>
+  <content>
+    <section id="id-596834200173">
+      <title>Introduction</title>
+      <para id="id4667419">This section about Blended Learning is available for faculty who will be teaching or designing blended learning courses. There are four topics covered in this section:</para>
+      <list list-type="bulleted" id="id12257383">
+        <item>What is blended learning? What are the formats?</item>
+        <item>Why is blended learning growing?</item>
+        <item>Teaching in a blended learning format: What to be aware of?</item>
+        <item>Recommendations for Making the Most of Your Blended Course (Including Voice of Experience--Interview of Andrew Wiesner)</item>
+      </list>
+    </section>
+    <section id="id-00218750298597">
+      <title>What is Blended Learning?</title>
+      <para id="id11585620">Blended Learning is an approach to course design that brings together the best of both face-to-face and online strategies. This combination aims to build from each approach to create an innovative and effective learning experience for students.</para>
+      <para id="id10892051">The notion behind a blended approach is the planned integration of online and face-to-face instructional approaches in a way that maximizes the positive features of each respective delivery mode. For example, online materials can provide students with flexibility and a way to access engaging multimedia content. However, one of the often-heard criticisms of online courses is that some may find them isolating or lacking in interpersonal contact. In the case of a blended learning course that contact could be provided in the form of face-to-face class sessions. </para>
+    </section>
+    <section id="id-787804556434">
+      <title>Blended Learning Formats</title>
+      <para id="id5760233">One of the initial questions that arise when first considering teaching in a blended format is what the exact make-up of the course should be; in other words, how much time should be spend in each of the two modes of instruction. The short answer is that there is not a single “right” ratio of face-to-face and online time. Each course is a unique case.</para>
+      <para id="id4715653">Blended courses show enormous variety in how the face-to-face ratio to online time is distributed. For example, some instructors might choose to replace one class per week with online assignments. Others might meet with their students in class for several weeks and then suspended class meetings for several weeks as the students worked independently or in teams on online assignments. What’s right for your course will be a decision you’ll make after considering your course objectives, and weighing the benefits of each of the instructional modalities for reaching those objectives.</para>
+      <para id="id8710925">The courses described above, which move some instruction online and have a resulting reduction in the amount of time spend in a face to face classroom setting, follow the “replacement” model: the time previously spent in class has been shifted to online instructional time. It is possible to add online content to a face-to-face course without replacing any classroom time. Consider a situation in which a math instructor provides online practice problems to students, allowing them to work on problems at their convenience. This example could be seen as a “web-enhanced” course, because the online materials are supplemental to the face-to-face instruction. For the most part, blended learning courses aim to replace face-to-face time. </para>
+    </section>
+    <section id="id-125772077821">
+      <title>The Growth of Blended Learning</title>
+      <para id="id11044006">The blended approach to instruction has seen a steady increase in the past years, and survey data indicates that administrators in higher education expect that trend to continue. According to the Handbook of Blended Learning, a majority of respondents in a 2006 survey expect a dramatic rise in the use of blended learning as an instructional format, eventually encompassing 40% of course offerings within the next 6 years. </para>
+      <para id="id6025202">Research from the University of Central Florida has indicated that faculty and student satisfaction with BL is high, and that the majority of both students and instructors would be willing to participate in future blended courses based on their past experiences with the format.</para>
+</section>
+      <section id="id-285893735988">
+        <title>The Appeal of Blended Learning</title>
+        <para id="id3789726">Why has a blended approach been welcomed by faculty and students?</para>
+        <para id="id10708255">From a pedagogical perspective, blended learning’s aim to join the best of classroom face-to-face learning experiences with the best of online learning experiences allows for:</para>
+        <list list-type="bulleted" id="id5405056"><item>An increase is learning outcome measures and lowering of attrition rates vs. fully online courses (Dziuban, Hartman &amp; Moskal, 2004).</item>
+          <item>An opportunity for students to practice technology skills in navigating online course materials and possibility creating digital content for assignments.</item>
+          <item>An increase in student-instructor and student-student interaction through the use of course communication tools like discussion forums.</item>
+          <item>The ability to reserve face-to-face time for interactive activities, such as higher-level discussions, small group work, debates, demonstrations, or lab activities.</item>
+        </list>
+        <para id="id3815238">From a student perspective, the appeal of blended learning includes:</para>
+        <list list-type="bulleted" id="id11449035">
+          <item>Flexibility of schedule: learn any-time, anywhere.</item>
+          <item>Control: students have some level of control over the pacing of their learning. Difficult concepts can be reviewed as often as necessary.</item>
+          <item>Convenience of an online class with many of the social aspects of a face-to-face class.</item>
+        </list>
+        
+        
+      </section>
+
+    <section id="id-901725668801">
+      <title>Teaching in a blended learning format: What to be aware of?</title>
+      <para id="element-85">When choosing to explore blended learning as a course format, there are several dimensions to course planning and development that should be considered:</para><section id="id-243773224153">
+        <title>Technology</title>
+        <para id="id5458390">Just like online courses, hybrid/blended courses are dependent on several technologies to function. These can include: </para>
+        <list list-type="bulleted" id="id11980424">
+          <item>learning management systems</item>
+          <item>digital libraries</item>
+          <item>mobile technologies</item>
+          <item>streaming audio and/or video media</item>
+          <item>reusable learning objects and materials</item>
+        </list>
+      </section>
+      <section id="id-61664585172">
+        <title>Integration</title>
+        <para id="id4004811">Online materials are central to a blended course's success, and the students' work online must be relevant to the in-class activities. Aycock, Garnham, &amp; Kaleta (2002) at the University of Wisconsin’s blended learning effort revealed the importance of integration: </para>
+        <para id="id10399170">
+          <quote display="block" id="idp5967440">“The project's participants emphasized this point repeatedly. When asked, 'What would I do differently?' they were united in their response: 'I'd devote more attention to integrating what was going on in the classroom with the online work.' This was true even though the project's faculty development sessions repeatedly emphasized the importance of connecting in-class material with out-of-class assignments. One instructor responded emphatically, 'Integrate online with face-to-face, so there aren't two separate courses.' We found it impossible to stress integrating face-to-face and online learning too much."</quote>
+        </para>
+        <para id="id10712592">Students can be critical of blended instruction if they felt the face-to-face and time-out-of-class components of the course were not well integrated.</para>
+      </section>
+      <section id="id-926678169455">
+        <title>Organization</title>
+        <para id="id11266382">For the most part, the blended format will be new to students, and they will benefit greatly from a clear rationale for its use. Instructors may need to explain the model and why it was chosen. A carefully constructed syllabus can provide much of the information about course structure for students; information like when and where the face-to-face meetings will be held, when and how assignments should be submitted, and what exactly will occur during the class meeting times are all critical aspects of the course that may not be obvious to those students new to blended learning. </para>
+      </section>
+      <section id="id-230213584047">
+        <title>Interaction</title>
+        <para id="id10792202">Research indicates that student satisfaction with the blended format is highly dependant on the level of interaction with instructors and other students. Instructors can address interaction issues by providing time during the face to face sessions for discussion, in addition to using available inline discussion tools such as ANGEL discussion forums.</para>
+      </section>
+      <section id="id-86236316725">
+        <title>Student Expectations</title>
+        <para id="id10468723">Blended learning students require a greater ability to regulate their work and manage their own time. This is because they have fewer in-class meetings, and thus may not realize that they are falling behind in the course. Many blended instructors report significant problems with students not taking responsibility for their courses and with students' poor time management skills.</para>
+        <para id="id5913512">In addition, some instructors have found that students occasionally assume that online and blended courses are inherently “easier” than traditional face-to-face courses. This can create problems when the rigors of the course surpass the expectations of some students. Again, a well-constructed syllabus can provide the essential details on what exactly is expected of students, thereby mitigating possible confusion on the part of students.</para>
+        
+        
+      </section>
+    </section>
+    <section id="id-670757662255">
+      <title>Recommendations for Making the Most of Your Blended Course</title>
+      <para id="id3394555">Over the past several years, faculty members at Penn State have been developing and teaching blended format courses in various colleges and departments. Below is a list of recommendations based on their experiences, using data collected from interviews and conversations with many of those faculty. These recommendations can be used as a guide for how to maximize the chances for a successful blended course:</para>
+      <list list-type="bulleted" id="id10321440">
+        <item>At a minimum, blended instructors should allow six months lead time for course development; one year is preferred. Several instructors voiced an opinion that the need for integration and organization necessitates a full course redesign; creating a blended course is not as simple as placing presentation slides or notes online.</item>
+        <item>Mastering the technology necessary to administer the course can be a challenge, and instructors should set aside time to learn the requisite tools. Posting content to the course web site, creating discussion forums, and managing student grade books are examples of skills that might be useful to practice. </item>
+        <item>Hold an initial face-to-face kick-off meeting. This first meeting can serve many roles, including a general orientation to the format of the course, a review of technology requirements, and an opportunity for the students to socialize and get to know their peers and their instructor.</item>
+        <item>Make students aware of what a blended course entails. For many students, the blended format is a novelty. Use course documents like the syllabus or the class schedule to help guide students. Rely on course communication tools like email announcements to make sure that the students know what’s coming up next.</item>
+        <item>Provide information on time management skills. Because of the self-pacing elements of a blended course, students may benefit from improving their skills in managing their work and schedules. The University Learning Centers can direct students to resources. In addition, Penn State has developed an iStudy online module that contains information on improving time management: <link url="http://istudy.psu.edu/FirstYearModules/Time/TimeManagementLesson.htm">http://istudy.psu.edu/FirstYearModules/Time/TimeManagementLesson.htm</link></item>
+        <item>Be sure that the face-to-face class meetings are integrated into the course, and hold value to the educational experience that connects with the online coursework. Students may become frustrated if they feel that the face-to-face sessions are simply thrown into the course, with no thought given to the role that the classroom time plays within the course. </item>
+      </list>
+      <section id="id-702614542988">
+        <title>What are some examples of recommended uses for face-to-face meeting times?</title>
+        <list list-type="bulleted" id="id3389884">
+          <item>Intro/technology overview</item>
+          <item>Collaborative small-group work</item>
+          <item>Advanced discussions</item>
+          <item>Project presentations</item>
+          <item>Guest speakers</item>
+          <item>Q&amp;A sessions</item>
+          <item>Demonstrations</item>
+          <item>Lab work</item>
+        </list>
+      </section>
+    </section>
+    <section id="id-616869082008">
+      <title>Voice of Experience</title>
+      <para id="id4506933">To hear insights from an experienced online instructor about preparing for online teaching, access the following interview. Please make sure your audio is enabled.</para>
+      <para id="element-860"><title>Andrew Wiesner</title>
+<figure id="element-861a1"><media id="idp7843440" alt=""><image src="../../media/Wiesner.png" mime-type="image/png"/></media></figure>
+<figure id="element-861a"><title>Andrew Wiesner - Developing and Teaching a Blended Course (Interviewed by Gary Chinn) (mp3)</title>
+<media id="idm8201072" alt=""><audio src="WiesnerBlendedLearning.mp3" mime-type="audio/mpeg"/></media>
+</figure></para>
+    </section>
+<section id="references">
+<title>References</title>
+
+<para id="refa"> Aycock, A., Garnham, C., &amp; Kaleta, R. (2002). Lessons learned from the hybrid course project. Teaching Scholars Forum, 8(6). <link url="http://www.uwsa.edu/ttt/articles/garnham2.htm">http://www.uwsa.edu/ttt/articles/garnham2.htm</link></para>
+
+
+<para id="refb">Dziuban, C. D., Hartman, J. L., &amp; Moskal, P. D. (2004). Blended learning. Educause Center for Applied Research, Research Bulletin, 7. <link url="http://www.educause.edu/ir/library/pdf/ERB0407.pdf">http://www.educause.edu/ir/library/pdf/ERB0407.pdf</link></para>
+</section>
+  </content>
+</document>

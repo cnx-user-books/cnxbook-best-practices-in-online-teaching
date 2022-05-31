@@ -1,0 +1,56 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10453</md:content-id>
+    <md:title>Best Practices in Online Teaching</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>8c2237e2-773e-4801-8d7f-f6ac1194aff3</md:uuid>
+<md:slug>best-practices-in-online-teaching</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Course Goals</md:title>
+      <col:content>
+        <col:module document="m14872"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Getting Started</md:title>
+      <col:content>
+        <col:module document="m14871"/>
+        <col:module document="m14873"/>
+        <col:module document="m14875"/>
+        <col:module document="m14874"/>
+        <col:module document="m14877"/>
+        <col:module document="m14878"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>During Teaching</md:title>
+      <col:content>
+        <col:module document="m14943"/>
+        <col:module document="m14977"/>
+        <col:module document="m15030"/>
+        <col:module document="m15059"/>
+        <col:module document="m15035"/>
+        <col:module document="m15040"/>
+        <col:module document="m15038"/>
+        <col:module document="m14970"/>
+        <col:module document="m15041"/>
+        <col:module document="m15042"/>
+        <col:module document="m15043"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Putting It All Together</md:title>
+      <col:content>
+        <col:module document="m15044"/>
+        <col:module document="m15045"/>
+        <col:module document="m14976"/>
+        <col:module document="m15046"/>
+        <col:module document="m15047"/>
+        <col:module document="m15048"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

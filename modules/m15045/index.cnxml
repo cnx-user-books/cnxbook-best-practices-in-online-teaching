@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Best Practices in Online Teaching - Pulling It All Together - Manage Grades and Exams</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>28efb71e-cb9f-40c8-a71c-e43ee78b7dae</md:uuid>
+</metadata>
+  <content>
+   
+    <section id="id-151124987327">
+      <title>What to Do?</title>
+      <para id="id5459857"><figure id="id8735675"><media id="idm6919280" alt=""><image src="../../media/spreadsheet.jpg" mime-type="image/jpeg" height="329" width="247"/></media>
+<caption>Photo, spreadsheet 1, photo #541349 , http://www.sxc.hu/photo/541349</caption></figure> The grading structure for the online course is established before the course begins. Effective online instructors understand the role of assessment in student learning, and follow the institution's policies and regulations in handling grades and exams.</para>
+    </section>
+    <section id="id-607111652266">
+      <title>How to Do It?</title>
+      <list list-type="bulleted" id="id10473822"><item>Make sure the exams or other assessment activities are congruent with your course objectives; If possible, try to discuss this with your instructional designer before the course begins.</item>
+        <item>Clearly communicate to students the grading policies in your course, either in the course syllabus, announcements, or in the assignment instructions.</item>
+        <item>Specify grading policies in your syllabus. (Please see more at <link url="http://tlt.its.psu.edu/suggestions/syllabus/">Tips for an Effective Syllabus</link> by <link url="http://tlt.its.psu.edu/">TLT</link>)</item>
+        <item>Grade the assignment submissions in a timely fashion, especially those assignments that build on other assignments.</item>
+        <item>Include flexibility in grading if possible:<list list-type="bulleted" id="id12605719"><item>Allow students to drop lowest grade</item><item>Give choices for when students can complete assignments (e.g. Pick 2 out of 5, etc.)</item></list></item>
+        <item>Provide clear guidelines regarding your timeframe for responding to student questions and assignment grading. (For more information about grading policies and guidelines, please see module - <link document="m14874">Specify Course Goals, Expectations, and Policies</link>)</item>
+        <item>Be aware that some of your students may need to submit their assignments and exams early to get grades prior to graduation, and this may affect some date availability restrictions that you set on drop boxes or other course components.</item>
+        <item>Discuss changes in grading policies or course gradebook with your instructional designer before the course starts.</item>
+        <item>Keep grades/exams related communications within the course management system (CMS) space.</item>
+        <item>Effectively manage your students' grades by using the gradebook that is part of your course management system (CMS)</item>
+        <item><link url="http://tlt.its.psu.edu/suggestions/gradebook/index.html">TLT has some tips for managing grades</link> using the ANGEL CMS. The site includes a sample file with grades, information about importing and exporting, and working with Excel. Even if you don’t use ANGEL, this will give you some ideas about how you can use a CMS to manage grades.</item>
+      </list>
+    </section>
+    <section id="id-435680971339">
+      <title>Why Do It?</title>
+      <para id="id12723672">Tallent-Runnels, et al. (2006) suggests that "managing student assignments, providing feedback to students, and assessing students' learning are all key factors in any course, whether face-to-face or online." The research findings summarized in their review have shown that online instructors could have more options in teaching, learning, and assessment through various online learning technologies.</para>
+      <para id="id14978025">The differences between face-to-face and distance education context "require a refocus and repurposing of classroom-developed assessment and evaluation" (Garrison &amp; Anderson, 2003, p.93).</para>
+</section>
+      <section id="id11128079"><title>Reference:</title>
+      <para id="id7097299">Garrison, D.R. &amp; Anderson, T. (2003). <emphasis>E-learning in the 21st century: A framework for research and practice</emphasis>. New York: RoutledgeFalmer.</para>
+      <para id="id7864456">Tallent-Runnels, M., Thomas, J., Lan, W., Cooper, S., Ahern, T., Shaw, S., &amp; Liu, X. (2006). Teaching courses online: A review of the research. <emphasis>Review of Educational Research, 76(1),</emphasis> 93-135</para>
+    </section>
+  </content>
+</document>
